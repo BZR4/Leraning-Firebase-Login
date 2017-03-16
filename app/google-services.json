@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "709856435216",
+    "firebase_url": "https://cadastro-de-usuarios-8f288.firebaseio.com",
+    "project_id": "cadastro-de-usuarios-8f288",
+    "storage_bucket": "cadastro-de-usuarios-8f288.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709856435216:android:aee2ed6123cdf3b9",
+        "android_client_info": {
+          "package_name": "com.esdras.cadastrodeusuarios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709856435216-dm2k7tl8nve23lpevpmhj7vjvfcsrjmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA-ek_Jj5yhau3rmgamdTHFldp7MfVOR8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
